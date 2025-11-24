@@ -1,0 +1,3 @@
+numpy
+matplotlib
+torch    # if you use CPU-only: install appropriate torch wheel for your environment
